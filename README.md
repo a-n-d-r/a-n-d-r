@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👨‍💻 I'm a seasoned Python developer with over 3 years of hands-on experience in crafting efficient and creative solutions. Here's a quick snapshot of what I bring to the table:
+👨‍💻 I'm a seasoned Python developer with over 3 years of hands-on experience in crafting efficient and creative solutions. 
+
+💼 Currently working at bogdanna.com as Python Backend Developer
+
+ℹ️ Here's a quick snapshot of what I bring to the table:
 
 🤖 Telegram Bot Maestro: My true passion lies in creating Telegram bots that streamline communication and enhance user experiences. I've developed bots for various purposes, from customer support to automation.
 
@@ -25,4 +29,6 @@ Here are some ideas to get you started:
 
 🌟 Web Framework Enthusiast: I'm currently diving into web frameworks, exploring the latest trends to build dynamic and responsive web applications.
 
+<!--
 💬 If you're seeking a Python developer who can tackle web scraping, Linux server tasks, and Telegram bot development, let's chat! I'm eager to bring my expertise to your project.
+-->
