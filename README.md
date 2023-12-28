@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 👨‍💻 I'm a seasoned Python developer with over 3 years of hands-on experience in crafting efficient and creative solutions. 
 
-💼 Currently working at [bogdanna.com](https://bogdanna.com) as Python Backend Developer
+💼 Currently working at [bogdanna.com](https://bogdanna.com){:target="_blank" rel="noopener"} as Python Backend Developer
 
 ℹ️ Here's a quick snapshot of what I bring to the table:
 
