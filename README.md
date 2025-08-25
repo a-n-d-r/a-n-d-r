@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-👨‍💻 I'm a seasoned Python developer with over 4 years of hands-on experience in crafting efficient and creative solutions. 
-
-💼 Currently working at [bogdanna.com](https://bogdanna.com) as Python Backend Developer
+👨‍💻 I'm a seasoned Python developer with over 5 years of hands-on experience in crafting efficient and creative solutions. 
 
 ℹ️ Here's a quick snapshot of what I bring to the table:
 
